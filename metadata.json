@@ -1,0 +1,5 @@
+{
+  "name": "FISH的金融观察",
+  "description": "A professional-grade AI trading assistant that aggregates market news, tracks weekly economic events, and generates daily market observation briefings using Gemini's search grounding capabilities.",
+  "requestFramePermissions": []
+}
